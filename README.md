@@ -7,7 +7,7 @@
 🙌 I'm looking for help with: writing scalable backend systems and contributing to large codebases.<br><br>
 🌱 I'm currently learning: Next.js, TypeScript, and performance optimization for web apps.<br><br>
 💬 Ask me about: JavaScript, Node.js, Express, MongoDB, React, and DSA problem-solving.<br><br>
-⚡ Fun fact: I'm 1800 rated in chess ♟️ and have solved 700+ problems on LeetCode & GFG.
+⚡ Fun fact: I'm 1800 rated in chess ♟️ and have solved 800+ problems on LeetCode & GFG.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.amanverma_00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-verma-563937294) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vermaaman1072@gmail.com)
