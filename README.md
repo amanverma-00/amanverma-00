@@ -48,7 +48,7 @@
 
 # 🎓 Education
 **B.Tech in Computer Science** — Parul University, Vadodara &nbsp;|&nbsp; *Aug 2023 – May 2027 (expected)*
-&nbsp;&nbsp;&nbsp;&nbsp;CGPA: **7.44**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CGPA: **7.44**
 
 ---
 
