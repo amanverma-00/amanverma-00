@@ -252,14 +252,6 @@ Currently in an active, multi-target application push targeting software enginee
     <img src="https://img.shields.io/badge/GeeksforGeeks-amanverma00-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
-<p align="center">
-  <a href="https://www.hackerrank.com/amanverma00" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-amanverma00-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/amanverma00" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-amanverma00-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
